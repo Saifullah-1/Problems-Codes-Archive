@@ -1,4 +1,4 @@
-# CodeProblemArchive
+# Code Problem Archive
 
 Welcome to my problems solutions archive! This repository is a collection of my solutions for competitive programming problems from various platforms like CodeForces, LeetCode, HackerRank, and more.
 
