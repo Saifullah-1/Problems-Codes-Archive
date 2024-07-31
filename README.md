@@ -1,4 +1,4 @@
-# Problems Code Archive
+# Problems Codes Archive
 
 Welcome to my problems solutions archive! This repository is a collection of my solutions for competitive programming problems from various platforms like CodeForces, LeetCode, HackerRank, and more.
 
@@ -13,7 +13,8 @@ Please note that these solutions might not be the best or the most optimal. Howe
 ## Other Resources
 
 For more solutions and problems, you can visit my friends' repositories:
-- [AhmedIAshraf's LeetCode Problems](https://github.com/AhmedIAshraf/LeetCode-Problems.git)
+- [Ahmed Ashraf's LeetCode Problems](https://github.com/AhmedIAshraf/LeetCode-Problems.git)
+- [Mahmoud Abdelghany's LEETCODE](https://github.com/mahmoud1512/LEETCODE)
 
 
 Feel free to explore, learn, and contribute!
