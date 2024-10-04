@@ -12,7 +12,7 @@ public:
         //     j = i + 1;
         // }
         // return vector<int>{i, j};
-        multimap<int, int> m;
+        unordered_multimap<int, int> m;
         for (int i = 0; i < nums.size(); ++i)
             m.insert({nums[i], i});
 
