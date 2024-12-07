@@ -14,8 +14,6 @@ Please note that these solutions might not be the best or the most optimal. Howe
 
 For more solutions and problems, you can visit my friends' repositories:
 - [Ahmed Ashraf's LeetCode Problems](https://github.com/AhmedIAshraf/LeetCode-Problems.git)
-- [Mahmoud Abdelghany's LEETCODE](https://github.com/mahmoud1512/LEETCODE)
-
 
 Feel free to explore, learn, and contribute!
 
